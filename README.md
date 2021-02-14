@@ -1,1 +1,1 @@
-# HeraSB
+# Hera
